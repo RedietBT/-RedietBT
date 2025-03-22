@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Rediet Tadesse! 👋</h1>
+<h3 align="left"> Software Engineer </h3>
 
 🛠 Tech Stack  
 
