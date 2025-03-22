@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rediet Berhanu! 👋</h1>
+<h1 align="center">Hi there, I'm Rediet Tadesse! 👋</h1>
 
 🛠 Tech Stack  
 
