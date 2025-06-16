@@ -42,8 +42,3 @@
   </a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RedietBT&theme=radical&margin-w=15&margin-h=15&no-frame=true&column=7" alt="Trophies" />
-</div>
